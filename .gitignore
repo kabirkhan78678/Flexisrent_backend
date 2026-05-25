@@ -1,0 +1,17 @@
+.env
+.env
+.env
+node_modules/Archive.zip
+/node_modules
+.DS_Store
+*.log
+*.zip
+*.tar.gz
+*.bak
+*.tmp
+*.swp
+*.swo
+*.swn
+*.swo
+*.swn
+*.swo
